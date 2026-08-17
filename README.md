@@ -66,7 +66,7 @@ A web-based project developed as part of a team.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn]
+- 💼 LinkedIn: (https://www.linkedin.com/in/masud-rana-27bab8203/)
 - 📧 Email: your-tanzilmasud71@gmail.com
 - 🌐 Portfolio: [Coming Soon]
 
